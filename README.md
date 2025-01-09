@@ -51,23 +51,26 @@ This repository contains 10 directories and 18 R files, detailed below. URLs are
 ### (R5) vaccine_scenarios.R
 - generates weekly vaccine uptake data by region, age and sex for different rollout scenarios
 
-### (R6) infections_foi.R
+### (R6) params_montecarlo.R
+- generate parameter vectors for all health-related parameters varied in Monte Carlo simulation and used as model inputs
+
+### (R7) params_econ.R
+- generate economic parameter vectors across included countries for all economic parameters used as model inputs
+
+### (R8) infections_foi.R
 - generates age- and sex-stratified infection projections 
 
-### (R7) infections_seasonal.R
+### (R9) infections_seasonal.R
 - estimate infection seasonality and distribute projected infections at the weekly level
 
-### (R8) infections_vaccine.R
+### (R10) infections_vaccine.R
 - determine which infections are occurring in immunised vs. non-immunised individuals 
 
-### (R9) infections_vaccine_plots.R
+### (R11) infections_vaccine_plots.R
 - script to visualise impacts of vaccination at the district level in one exemplar district
 
-### (R10) .R
-
-### (R11) .R
-
-### (R12) .R
+### (R12) risk_stratify.R
+- estimate IHR and CFR estimates stratified by age, sex and pregnancy status
 
 ### (R13) .R
 
