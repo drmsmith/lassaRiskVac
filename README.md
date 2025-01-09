@@ -26,7 +26,7 @@ This repository contains 8 directories and 18 R files, detailed below. URLs are 
 
 ### (D6) /infections
 - contains 2019 zoonosis estimates in each district from Smith et al. (list_Lassa_00_byDistrict_annual.Rdata") and draws of FOI (foi_posterior_draws.csv) and seroprevalence (seroprevalence_posterior_draws.csv) from our serocatalytic modelling
-- subfolders to store the various infection projections calculated using infection R scripts
+- create subfolders to store the various infection projections calculated using infection R scripts
   
 ### (D7) /risk
 - contains final estimates of symptom risk, IHR and CFR stratified by age, sex and pregnancy status
