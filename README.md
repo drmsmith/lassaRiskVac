@@ -32,7 +32,7 @@ This repository contains 8 directories and 18 R files, detailed below. URLs are 
 - contains final estimates of symptom risk, IHR and CFR stratified by age, sex and pregnancy status
 
 ### (D8) /outcomes
-- subfolders to store: "raw" model output data (/raw_dat_ag) and output data stratified by different groupings (/organised_data_grouped)
+- create subfolders to store: "raw" model output data (/raw_dat_ag) and output data stratified by different groupings (/organised_data_grouped)
 - contains final summarised output data expressed as means and quantiles (/summarised_data) 
 
 
