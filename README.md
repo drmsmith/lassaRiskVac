@@ -1,7 +1,7 @@
 # lassaRiskVac
 Code for a model-based evaluation of risk-targeted Lassa vaccination campaigns in endemic regions of West Africa.
 
-This code accompanies the article "Burden of Lassa fever and health-economic benefits of risk-targeted vaccination in endemic regions of Nigeria, Guinea, Liberia and Sierra Leone: a vaccine impact modelling study." A pre-print is available at <>.
+This code accompanies the article "Health-economic impacts of age- and sex-targeted Lassa fever vaccination in endemic regions of Nigeria, Guinea, Liberia and Sierra Leone: a modelling study" A pre-print is available at <https://www.medrxiv.org/content/10.1101/2025.03.31.25324924v1>.
 
 This repository contains 8 directories and 18 R files, detailed below. URLs are provided for external data inputs that exceed Github's file size limitations and could not be uploaded. Datasets generated here that were too large to be uploaded can be reproduced by the user using the code below.
 
